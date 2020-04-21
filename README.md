@@ -1,0 +1,2 @@
+# PanoSplitterPolicy
+Privacy Policy
