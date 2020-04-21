@@ -9,7 +9,7 @@
 
 <p><strong>Contact Us</strong></p>
 <p>If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact
-    me by sending a message on h.</p>
+    me by sending a message on yogeshhan@gmail.com</p>
 <p>This Privacy Policy page was created at <a href="https://privacypolicytemplate.net"
                                               target="_blank">privacypolicytemplate.net</a>.</p>
 </body>
